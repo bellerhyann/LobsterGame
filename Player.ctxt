@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Player\ class\ allows\ player\ to\ move\ lefts\ and\ right\ with\ the\ left\ and\ right\ arrows\r\n\ from\ its\ location\:\ \r\n\ user\ can\ release\ a\ shelter\ (if\ the\ world\ does\ not\ already\ contain\ one)\r\n\ user\ can\ also\ release\ a\ poison\ bomb\ by\ pressing\ b\ (if\ there\ is\ not\ already\ a\ bomb\ in\ the\ world,\ and\ you\ still\ have\ bombs\ left)\r\n\ if\ a\ Lobstrosity\ touches\ the\ player,\ all\ actors\ will\ be\ removed\ from\ the\ world\r\n\ \r\n\ @author\ Belle\ Erhardt\ \r\n\ @version\ 3/21\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

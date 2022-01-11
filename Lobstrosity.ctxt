@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lobstrosity
+comment0.text=\r\n\ Lobstrosity\ will\ move\ one\ pixel\ and\ check\ to\ see\ if\ is\ touching\ a\ shelter\ (if\ it\ exists),\r\n\ or\ a\ bomb\ (if\ it\ exists\ in\ the\ world),\ or\ the\ bottom\ of\ the\ world.\r\n\ \r\n\ upon\ touching\ the\ shelter,\ the\ lobster\ will\ be\ removed\ from\ world,\ another\ lobster\ will\ be\ added\ at\ random,\ and\ the\ shelter\ strength\ will\ decrease.\r\n\ upon\ touching\ a\ bomb,\ the\ lobster(s)\ will\ be\ removed\ from\ the\ world.\ And\ another\ one\ willbe\ added.\r\n\ upon\ touching\ the\ bottom\ of\ the\ world,\ the\ lobstrosity\ will\ be\ removed\ and\ two\ more\ will\ \r\n\ randomly\ be\ added\ to\ the\ world\ (within\ the\ apropriate\ range)\r\n\ \r\n\ @author\ Belle\ Erhardt\r\n\ @version\ 3/21\r\n
+comment1.params=
+comment1.target=Lobstrosity()
+comment1.text=\r\n\ turns\ Lobstrosities\ to\ face\ the\ bottom\ of\ the\ world\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Lostrosity\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

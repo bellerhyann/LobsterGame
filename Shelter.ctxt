@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Shelter
+comment0.text=\r\n\ The\ Shelter\ class\ provides\ an\ object\ that\ can\ be\ "in\ the\ way"\r\n\ \ \ of\ Lobstrosities.\ \r\n\r\n\ Although\ you\ are\ welcome\ to\ modify\ this\ class,\ IT\ IS\ **HIGHLY**\r\n\ INADVISABLE\ THAT\ YOU\ MODIFY\ THIS\ CLASS.\r\n\r\n\ @author\ Stephen\ Blythe\ \r\n\ @version\ 1/2020\r\n
+comment1.params=initialStrength
+comment1.target=Shelter(int)
+comment1.text=\r\n\ Constructor\ for\ a\ shelter.\r\n\ \r\n\ @param\ initialStrength\ is\ the\ starting\ strength\ of\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ this\ shelter\r\n
+comment2.params=
+comment2.target=void\ redraw()
+comment3.params=
+comment3.target=void\ reduceStrength()
+comment3.text=\r\n\ reduceStrngth\ reduces\ this\ shelter's\ strength\ by\ 1\ unit\r\n
+comment4.params=byVal
+comment4.target=void\ reduceStrength(int)
+comment4.text=\r\n\ reduceStrength\ reduces\ the\ strength\ of\ the\ shelter\ by\ a\r\n\ \ \ \ \ \ \ \ \ \ \ requested\ amount.\ \r\n\ @param\ byVal\ is\ the\ amount\ to\ reduce\ this\ shelter's\ strength\r\n
+numComments=5
